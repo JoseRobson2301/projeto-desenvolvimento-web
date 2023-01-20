@@ -16,7 +16,7 @@ form {
     box-sizing: border-box;
     border: 2px solid #ccc;
     border-radius: 4px;
-    outline: none;
+    outline: rgb(200, 255, 3);
   }
 
   input[type="submit"] {
@@ -28,7 +28,7 @@ form {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    outline: none;
+    outline: rgb(200, 255, 3);
   }
 
   body {
