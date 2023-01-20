@@ -29,7 +29,13 @@ form {
     cursor: pointer;
   }
 
-body {
+  body {
     padding-top: 7rem;
     background-color: cadetblue;
-}
+  }
+
+  #title-main {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: azure;
+  }
