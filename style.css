@@ -1,5 +1,5 @@
 #AVISO span {
-    position: absolute;
+    position: fixed;
     color: cadetblue;
     left: 50rem;
     right: 50rem;
